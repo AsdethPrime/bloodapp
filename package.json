@@ -1,0 +1,22 @@
+{
+  "name": "bloodapp",
+  "version": "1.0.0",
+  "description": "This is a sample web-application; despite the scary sounding name is meant to be a form for blood donors and people who need bloog to interact with each other",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsdethPrime/bloodapp.git"
+  },
+  "author": "asdethprime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsdethPrime/bloodapp/issues"
+  },
+  "homepage": "https://github.com/AsdethPrime/bloodapp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
